@@ -1,0 +1,9 @@
+- Build a more advanced MNIST model using convolutional neural networks
+- Build the model in pycharm
+    - Write some functions to help us build the graph
+    - Build a complex graph with several layers
+    - Train and test the model
+- Build the android app
+    - Import the model and other files
+    - Build a basic UI and connect to the code
+    - Write the code to perform the inference and display a result
